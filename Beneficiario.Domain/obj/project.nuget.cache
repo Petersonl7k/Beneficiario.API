@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j7sscW4InMgp7jNPuYnqbCXTHN0OXgSxXwg9IdjDqyzZbxExaNmL+KWWAajx1uuB+a2rNri14xW2bao5gqkshA==",
+  "dgSpecHash": "k7mZ1T2czsG9mlHtIFr9fl0+K4Hod+I5HEru8lRAnEaAnDzvrmfv4+5wm4f6iw2MNFI5Nlll55pVNPMfXd5B9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Beneficiario.API\\Beneficiario.Domain\\Beneficiario.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Peter\\source\\repos\\Beneficiario.API\\Beneficiario.Domain\\Beneficiario.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
